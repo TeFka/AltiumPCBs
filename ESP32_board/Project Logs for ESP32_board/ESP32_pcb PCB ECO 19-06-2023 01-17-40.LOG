@@ -1,0 +1,62 @@
+Added Component: Designator=ch1()
+Added Component: Designator=ch2()
+Added Component: Designator=Conn1()
+Added Component: Designator=Conn2()
+Added Component: Designator=D2()
+Added Component: Designator=D3()
+Added Component: Designator=D4()
+Added Component: Designator=J1(MOLX-67503-1020_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/675031020_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Mini USB Connector, SMT, Righer Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "67503-1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "67503-1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "0.8 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=J1-5
+Added Pin To Net: NetName=NetC1_1 Pin=J1-6
+Added Pin To Net: NetName=NetC1_1 Pin=J1-7
+Added Pin To Net: NetName=NetC1_1 Pin=J1-8
+Added Pin To Net: NetName=NetC1_1 Pin=J1-9
+Added Net: Name=NetC1_1
+Added Net: Name=NetC1_2
+Added Net: Name=NetC3_1
+Added Net: Name=NetC5_2
+Added Net: Name=NetC9_2
+Added Net: Name=NetC10_2
+Added Net: Name=NetC11_2
+Added Net: Name=NetC12_2
+Added Net: Name=NetC13_2
+Added Net: Name=Netch1_3
+Added Net: Name=Netch1_4
+Added Net: Name=Netch1_5
+Added Net: Name=Netch1_6
+Added Net: Name=Netch1_7
+Added Net: Name=Netch1_10
+Added Net: Name=Netch1_11
+Added Net: Name=Netch1_12
+Added Net: Name=Netch1_15
+Added Net: Name=Netch1_16
+Added Net: Name=Netch1_17
+Added Net: Name=Netch1_18
+Added Net: Name=Netch2_4
+Added Pin To Net: NetName=Netch2_5 Pin=J1-1
+Added Net: Name=Netch2_5
+Added Net: Name=Netch2_9
+Added Net: Name=Netch2_11
+Added Net: Name=Netch2_24
+Added Net: Name=Netch2_25
+Added Net: Name=Netch2_26
+Added Net: Name=Netch2_28
+Added Pin To Net: NetName=NetD2_2 Pin=J1-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Net: Name=NetJ1_3
+Added Net: Name=NetQ1_2
+Added Net: Name=NetQ2_2
+Added Net: Name=NetR9_1
+Added Class: Name=ESP32_schematic

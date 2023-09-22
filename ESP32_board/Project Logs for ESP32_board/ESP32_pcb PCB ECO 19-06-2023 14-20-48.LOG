@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Added Component: Designator=D5(SD68XX)
+Added Pin To Net: NetName=NetC1_2 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetC1_1 Pin=D5-3
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Added Member To Class: ClassName=ESP32_schematic Member=Component D5 SK68XX

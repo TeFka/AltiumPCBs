@@ -1,0 +1,218 @@
+Added Component: Designator=ch1(ESP_RF - duplicate)
+Added Component: Designator=ch2(ESPchip)
+Added Component: Designator=Conn1(Conn15x1)
+Added Component: Designator=Conn2(Conn15x1)
+Added Component: Designator=D2(LESD5D5)
+Added Component: Designator=D3(LESD5D5)
+Added Component: Designator=D4(LESD5D5)
+Added Component: Designator=J1(MOLX-67503-1020_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/675031020_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Mini USB Connector, SMT, Righer Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "67503-1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "67503-1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "0.8 mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Added Pin To Net: NetName=NetC1_2 Pin=ch1-1
+Added Pin To Net: NetName=NetC3_1 Pin=ch1-2
+Added Pin To Net: NetName=Netch1_3 Pin=ch1-3
+Added Pin To Net: NetName=Netch1_4 Pin=ch1-4
+Added Pin To Net: NetName=Netch1_5 Pin=ch1-5
+Added Pin To Net: NetName=Netch1_6 Pin=ch1-6
+Added Pin To Net: NetName=Netch1_7 Pin=ch1-7
+Added Pin To Net: NetName=NetC12_2 Pin=ch1-8
+Added Pin To Net: NetName=NetC1_1 Pin=ch1-9
+Added Pin To Net: NetName=Netch1_10 Pin=ch1-10
+Added Pin To Net: NetName=Netch1_11 Pin=ch1-11
+Added Pin To Net: NetName=Netch1_12 Pin=ch1-12
+Added Pin To Net: NetName=NetC11_2 Pin=ch1-13
+Added Pin To Net: NetName=NetC10_2 Pin=ch1-14
+Added Pin To Net: NetName=Netch1_15 Pin=ch1-15
+Added Pin To Net: NetName=Netch1_16 Pin=ch1-16
+Added Pin To Net: NetName=Netch1_17 Pin=ch1-17
+Added Pin To Net: NetName=Netch1_18 Pin=ch1-18
+Add Pin To Net: Unknown Pin: Pin ch1-19
+Add Pin To Net: Unknown Pin: Pin ch1-20
+Add Pin To Net: Unknown Pin: Pin ch1-21
+Add Pin To Net: Unknown Pin: Pin ch1-22
+Add Pin To Net: Unknown Pin: Pin ch1-23
+Add Pin To Net: Unknown Pin: Pin ch1-24
+Add Pin To Net: Unknown Pin: Pin ch1-25
+Add Pin To Net: Unknown Pin: Pin ch1-26
+Add Pin To Net: Unknown Pin: Pin ch1-27
+Added Pin To Net: NetName=NetC1_1 Pin=ch2-3
+Added Pin To Net: NetName=Netch2_4 Pin=ch2-4
+Added Pin To Net: NetName=Netch2_5 Pin=ch2-5
+Added Pin To Net: NetName=NetC1_2 Pin=ch2-6
+Added Pin To Net: NetName=NetC1_2 Pin=ch2-7
+Added Pin To Net: NetName=NetC9_2 Pin=ch2-8
+Added Pin To Net: NetName=Netch2_9 Pin=ch2-9
+Added Pin To Net: NetName=Netch2_11 Pin=ch2-11
+Added Pin To Net: NetName=Netch2_24 Pin=ch2-24
+Added Pin To Net: NetName=Netch2_25 Pin=ch2-25
+Added Pin To Net: NetName=Netch2_26 Pin=ch2-26
+Added Pin To Net: NetName=Netch2_26 Pin=ch2-26
+Added Pin To Net: NetName=Netch2_28 Pin=ch2-28
+Add Pin To Net: Unknown Pin: Pin ch2-29
+Added Pin To Net: NetName=NetC1_1 Pin=Conn1-1
+Added Pin To Net: NetName=NetC1_2 Pin=Conn1-2
+Added Pin To Net: NetName=NetC13_2 Pin=Conn1-3
+Added Pin To Net: NetName=NetC1_2 Pin=Conn1-4
+Added Pin To Net: NetName=NetC1_2 Pin=Conn1-5
+Added Pin To Net: NetName=Netch1_3 Pin=Conn1-6
+Added Pin To Net: NetName=Netch1_4 Pin=Conn1-7
+Added Pin To Net: NetName=Netch1_5 Pin=Conn1-8
+Added Pin To Net: NetName=Netch1_6 Pin=Conn1-9
+Added Pin To Net: NetName=NetC1_1 Pin=Conn1-10
+Added Pin To Net: NetName=Netch1_7 Pin=Conn1-11
+Added Pin To Net: NetName=NetC12_2 Pin=Conn1-12
+Added Pin To Net: NetName=NetC5_2 Pin=Conn1-13
+Added Pin To Net: NetName=NetC5_2 Pin=Conn1-14
+Added Pin To Net: NetName=NetC1_1 Pin=Conn1-15
+Added Pin To Net: NetName=NetC1_1 Pin=Conn2-1
+Added Pin To Net: NetName=Netch1_18 Pin=Conn2-2
+Added Pin To Net: NetName=Netch1_17 Pin=Conn2-3
+Added Pin To Net: NetName=Netch1_16 Pin=Conn2-4
+Added Pin To Net: NetName=Netch1_15 Pin=Conn2-5
+Added Pin To Net: NetName=NetC1_1 Pin=Conn2-6
+Added Pin To Net: NetName=Netch1_10 Pin=Conn2-7
+Added Pin To Net: NetName=NetC1_1 Pin=Conn2-8
+Added Pin To Net: NetName=Netch1_11 Pin=Conn2-9
+Added Pin To Net: NetName=Netch1_12 Pin=Conn2-10
+Added Pin To Net: NetName=NetC1_1 Pin=Conn2-11
+Added Pin To Net: NetName=NetC11_2 Pin=Conn2-12
+Added Pin To Net: NetName=NetC10_2 Pin=Conn2-13
+Added Pin To Net: NetName=NetC1_1 Pin=Conn2-14
+Added Pin To Net: NetName=NetC1_1 Pin=Conn2-15
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-3
+Added Pin To Net: NetName=NetD2_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetC1_1 Pin=J1-5
+Added Pin To Net: NetName=NetC1_1 Pin=J1-6
+Added Pin To Net: NetName=NetC1_1 Pin=J1-7
+Added Pin To Net: NetName=NetC1_1 Pin=J1-8
+Added Pin To Net: NetName=NetC1_1 Pin=J1-9
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Added Pin To Net: NetName=NetD1_1 Pin=J1-1
+Added Net: Name=NetD1_1
+Added Net: Name=NetD5_2
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component C9 Capacitor
+Add Class Member: Failed to add class member : Component C10 Capacitor
+Add Class Member: Failed to add class member : Component C11 Capacitor
+Add Class Member: Failed to add class member : Component C12 Capacitor
+Add Class Member: Failed to add class member : Component C13 Capacitor
+Added Member To Class: ClassName=ESP32_schematic Member=Component ch1 ESP_RF
+Added Member To Class: ClassName=ESP32_schematic Member=Component ch2 CP02102
+Added Member To Class: ClassName=ESP32_schematic Member=Component Conn1 Conn15x1
+Added Member To Class: ClassName=ESP32_schematic Member=Component Conn2 Conn15x1
+Add Class Member: Failed to add class member : Component D1 Diode
+Added Member To Class: ClassName=ESP32_schematic Member=Component D2 zenerDiode
+Added Member To Class: ClassName=ESP32_schematic Member=Component D3 zenerDiode
+Added Member To Class: ClassName=ESP32_schematic Member=Component D4 zenerDiode
+Add Class Member: Failed to add class member : Component D5 SK68XX
+Added Member To Class: ClassName=ESP32_schematic Member=Component J1 67503-1020
+Add Class Member: Failed to add class member : Component Q1 Darlington NPN Bipolar Transistor
+Add Class Member: Failed to add class member : Component Q2 Darlington NPN Bipolar Transistor
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Closed
+Add Class Member: Failed to add class member : Component S2 Push Button Normally Closed
+Add Class Member: Failed to add class member : Component U1 Positive Fixed Voltage regulator
